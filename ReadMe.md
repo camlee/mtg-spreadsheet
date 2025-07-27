@@ -1,4 +1,4 @@
-# Magic The Gathering Spreadsheet Generator
+# Magic the Gathering Spreadsheet Generator
 
 This script generates Excel spreadsheets of magic cards with relevant columns such as image, name, color, cost, and playability.
 
@@ -17,8 +17,8 @@ To use this command line tool, you will need to install Python and run the scrip
 * Open a terminal in this folder.
 * See all available commands and options: `python run.py --help`
 * Print the list of sets: `python run.py --print_sets`
-* Make a spreadsheet for the Onslaught set: `python run.py Onslaught`
-* Find the generated spreadsheet in this folder and open it using Microsoft Excell.
+* Make a spreadsheet for the set or block named "Onslaught": `python run.py Onslaught`
+* Find the generated spreadsheet in this folder, and open it using Microsoft Excel.
 
 ## Example
 ![example](example_output.png)
