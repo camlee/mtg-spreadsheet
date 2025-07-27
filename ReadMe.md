@@ -19,3 +19,6 @@ To use this command line tool, you will need to install Python and run the scrip
 * Print the list of sets: `python run.py --print_sets`
 * Make a spreadsheet for the Onslaught set: `python run.py Onslaught`
 * Find the generated spreadsheet in this folder and open it using Microsoft Excell.
+
+## Example
+![example](example_output.png)
